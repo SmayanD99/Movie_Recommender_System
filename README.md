@@ -1,5 +1,6 @@
-# Building a Movie Recommender System using MovieLens Dataset
+# Movie Recommender System
 
+Term Project - Software Engineering Lab - Spring 2019-2020
 ## Background 
 
 Suppose you're planning to buy a laptop without any idea about the right configuration. So You would check with your friends and colleagues for recommendation and they suggests laptops based on your requirement, their knowledge and current trends in the market of the product(laptop). 
