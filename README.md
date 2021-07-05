@@ -3,7 +3,7 @@
 Term Project - Software Engineering Lab - Spring 2019-2020
 ## Background 
 
-Suppose you're planning to buy a laptop without any idea about the right configuration. So You would check with your friends and colleagues for recommendation and they suggests laptops based on your requirement, their knowledge and current trends in the market of the product(laptop). 
+Suppose you're planning to buy a laptop without any idea about the right configuration. So you would check with your friends and colleagues for recommendation and they suggests laptops based on your requirement, their knowledge and current trends in the market of the product(laptop). 
 This is the way a Recommendation engine works. 
 For instance, Amazon recommends you a laptop based on your previous search history, product popularity and keeps on showing the best recommendations so as to tempt the user to to buy a laptop . All the major companies have recommendation in their products such as Youtube shows recommendations based on your interests and activity and in the same way Netlix suggests you which movie or TV series ti watch next using a Recommendation Engine.
 
