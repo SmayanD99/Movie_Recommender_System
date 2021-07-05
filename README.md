@@ -183,18 +183,17 @@ collaborative filtering:
  * Download zip file to your local machine
  * Extract the zip file
  * Open terminal/cmd prompt and go inside the unzipped downloaded directory.
- * cd ~/Downloads/MRS
+ `cd ~/Downloads/Movie_Recommender_System`
  * Now create a new virtual environment in that directory.
- * Run the command python -m pip install virtualenv
- * And then  virtualenv venv -p python
- * Activating virtual environment: Go to cd venv/Scripts and then run activate
+ * Run the command `python -m pip install virtualenv`
+ * And then type `virtualenv venv -p python`
+ * Activating virtual environment: `cd venv/Scripts` and then type `activate`
    (You will see (venv) beside appended to the prompt in your terminal or command prompt)
- * Go back to root directory cd/Downloads/MRS : by cd -- (Linux) 
-   or cd .. ( Windows).
- * Install all dependencies: pip install -r requirements.txt         
-   (It will take about a minute and a half)
- * Then go to the src directory: cd src
- * Run python manage.py runserver
+ * Go back to root directory cd/Downloads/MRS : by `cd --` (Linux) 
+   or `cd ..` ( Windows).
+ * Install all dependencies: `pip install -r requirements.txt`         
+ * Then go to the src directory: `cd src`
+ * Run `python manage.py runserver`
  * Open your browser and go to the address
-   localhost:8080 or 127.0.0.1:8080
+   `localhost:8080` or `127.0.0.1:8080`
 
