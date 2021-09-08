@@ -174,7 +174,6 @@ collaborative filtering:
 ## Installation Instructions
 
 # Requirements: 
- * Anaconda3
  * Python 3.6 or later
  * Pip3
  * Virtualenv
